@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/WebAppBlog/.vs/WebAppBlog/v16
+/WebAppBlog/obj/Debug/netcoreapp3.1
+/WebAppBlog/obj
